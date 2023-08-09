@@ -3,15 +3,15 @@ __path = process.cwd()
 var express = require('express');
 var db = require(__path + '/database/db');
 try {
-var zahirr = db.get("zahirr");
+var hendraxd = db.get("HendraXD");
 } catch (e) {
 	console.log('')  
 }
  
-var creator = "Rey"
-var neoxr = "yntkts"
+var creator = "HendraXD"
+var neoxr = "HendraXD"
 var zeks = "administrator"
-var zeks2 = "apivinz"
+var zeks2 = "apihendraxd"
 var secure = require('ssl-express-www');
 var cors = require('cors');
 var fetch = require('node-fetch');
